@@ -1,0 +1,13 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar{
+    .nav-link{
+        padding: 20px 50px;
+    }
+}
+
+.navbar-expand-lg .navbar-nav{
+    gap: 30px;
+}
