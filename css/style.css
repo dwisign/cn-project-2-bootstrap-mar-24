@@ -48,3 +48,34 @@ body {
         }
     }
 }
+
+.about-section{
+    background: green;
+    padding: 80px 0px;
+    h2, .bi{
+        text-align: center;
+    }
+    .paragraph{
+        column-count: 2;
+        column-gap: 30px;
+        column-width: 200px;
+    }
+
+    .btn-wrap{
+        text-align: center;
+        margin-top: 30px;
+    }
+}
+
+.contact-form-section{
+    padding: 80px 0px;
+    h2, .bi{
+        text-align: center;
+    }
+}
+
+.footer-top{
+    padding: 80px 0px;
+    background: #666;
+    color: #fff;
+}
